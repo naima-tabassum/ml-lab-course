@@ -1,6 +1,6 @@
 # 📅 Week 01 — Introduction to Machine Learning & Python Basics
 
-> **Difficulty:** 🟢 Beginner | **Estimated Time:** 3–4 hours | **Prerequisites:** None
+> **Difficulty:** 🟢 Beginner | **Estimated Time:** 1–2 hours | **Prerequisites:** None
 
 ---
 
